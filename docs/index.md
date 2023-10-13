@@ -1,9 +1,3 @@
-# Welcome to MkDocs
+# Welcome to the Art & Object Marketplace
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Sellers
-
-[Sign up here](https://www.artandobject.shop/login)
-
-## Buyers
+This is the documentation site for the Art & Object Marketplace.
