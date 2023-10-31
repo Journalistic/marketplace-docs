@@ -2,5 +2,5 @@
 
 This is the documentation site for the Art & Object Marketplace.
 
-[Terms and Conditions](terms.md)
-FAQs
+ * [Terms and Conditions](terms.md)
+ * FAQs
