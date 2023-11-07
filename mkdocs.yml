@@ -28,4 +28,6 @@ theme:
 nav:
   - Home: 'index.md'
   - User Agreement: 'terms.md'
-  - FAQ: 'faq.md'
+  - FAQs: 'faq.md'
+  - Seller Tutorials: 'sellertuor.md'
+  - Buyer Tutorials: 'buyertutor.md'
