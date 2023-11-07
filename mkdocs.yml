@@ -1,4 +1,4 @@
-site_name: Art & Object Marketplace Help Center
+ site_name: Art & Object Marketplace Help Center
 theme:
   name: material
   features:
@@ -27,5 +27,5 @@ theme:
       accent: red
 nav:
   - Home: 'index.md'
-  - Terms of Service: 'terms.md'
+  - User Agreement: 'terms.md'
   - FAQ: 'faq.md'
