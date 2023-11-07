@@ -5,6 +5,6 @@ Below you will find the Art & Object Marketplace User Agreement. You will also f
  * [User Agreement](terms.md)
 
  # Helpful Links
- * [Marketplace FAQs]
+ * [Marketplace FAQs](faq.md)
  * [Seller Tutorials]
  * [Buyer Tutorials]
