@@ -27,7 +27,5 @@ theme:
       accent: lime
 nav:
   - Home: 'index.md'
-  - Buyers:
-    - Welcome: 'buyers/index.md'
-  - Sellers:
-    - Welcome: 'sellers/index.md'
+  - Terms of Service: 'terms.md'
+  - FAQ: 'faq.md'
