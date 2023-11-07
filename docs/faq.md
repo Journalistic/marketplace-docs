@@ -1,6 +1,6 @@
 #FAQs
 
-Buyer FAQ
+##Buyer FAQ
 
 How do I shop on Art & Object?
 Can I make an offer for an artwork?
@@ -21,7 +21,7 @@ How do I update my credit card details?
 How do I update my account?
 How do I delete my account?
 
-Seller FAQs
+##Seller FAQs
 
 Item and Artist Upload Process FAQ
 How do I list an artwork for sale? (what info is mandatory, photo requirements and best practices, include how to update it, what happens if there are multiples of prints, explain condition grading, tagging)
