@@ -25,6 +25,6 @@ Once you're done, you can click the button at the bottom of the form to submit t
 
 If the warning box is not visible on your profile settings page and you see something like this:
 
-![Profile page upon Stripe completion](/img/stripe-complete.png)
+![Profile page upon Stripe completion](../img/stripe-complete.png)
 
 At any point, you can come to the profile settings page to click on the link to your Stripe account and make any financial account changes.
