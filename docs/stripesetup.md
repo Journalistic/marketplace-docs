@@ -6,20 +6,20 @@ To get started, you will need to go to [your profile page](https://www.artandobj
 
 If you're new to Stripe, provide an email address that you manage. Later on, you'll be able to add other team members to your account, so no need to worry about whose email address to use for now. However, the person filling out this form must be someone with significant control and management of your business. Also, going through the process of creating a new Stripe account, you will need to know/gather the following information:
 
- * Mobile number. This is used for two form authenication sent by SMS, so provide a mobile number of a phone you have access to.
- * Business location. What country?
- * Type of Business: Individual, Company, or Nonprofit.
- * Business Structure: Sole proprietorship, Single member LLC, etc.
- * Legal Business Name
- * Employer Identification Number (EIN)
- * Doing Business As (DBA)
- * Registered Business Address
- * Type of Industry
- * Business Website
- * Product Description
- * Business Representative: Contact information for the person filling out this form. At some point, Stripe will request an image of the Business Representative's identification document (i.e. drivers license).
- * Banking information: Routing and account number
- * Public Details for Customers: The statement and shortened descriptor aren't used in the Art & Object Marketplace, but if you were to use Stripe for other purposes, that may be used.
+ - [ ] Mobile number. This is used for two form authenication sent by SMS, so provide a mobile number of a phone you have access to.
+ - [ ] Business location. What country?
+ - [ ] Type of Business: Individual, Company, or Nonprofit.
+ - [ ] Business Structure: Sole proprietorship, Single member LLC, etc.
+ - [ ] Legal Business Name
+ - [ ] Employer Identification Number (EIN)
+ - [ ] Doing Business As (DBA)
+ - [ ] Registered Business Address
+ - [ ] Type of Industry
+ - [ ] Business Website
+ - [ ] Product Description
+ - [ ] Business Representative: Contact information for the person filling out this form. At some point, Stripe will request an image of the Business Representative's identification document (i.e. drivers license).
+ - [ ] Banking information: Routing and account number
+ - [ ] Public Details for Customers: The statement and shortened descriptor aren't used in the Art & Object Marketplace, but if you were to use Stripe for other purposes, that may be used.
 
 Once you're done, you can click the button at the bottom of the form to submit the application and be returned to the Art & Object Marketplace. Once you're back on our site, if you continue to see the setup link, click it to return back to Stripe to complete any missing information/steps.
 
