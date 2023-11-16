@@ -1,4 +1,4 @@
 # Seller Tutorials
 
  * [Getting Started](firststeps.md)
- * [Setting up Stripe](stripesetup.md)
+ * [Setting Up Stripe](stripesetup.md)
