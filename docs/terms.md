@@ -32,7 +32,8 @@ commercialize any Art & Object Marketplace application or any information, data,
 harvest or otherwise collect or use information about users without their consent.
 The ability to list items for sale on the Art & Object Marketplace is by invitation only and requires the continued meeting of professional standards as outlined in this agreement.  Failure to meet these standards may, with reasonable notice, result in Art & Object Marketplace limiting, restricting, suspending, or downgrading a Seller’s account.
 Selling art displayed on the site outside of the Marketplace services after contact between a Buyer and Seller has been established on the Marketplace is not allowed.  If you circumvent our services, we may suspend your use of them. 
-Accounts that are unauthorized by us or become dormant may be removed.  Additionally, the Marketplace reserves the right to refuse, modify, or terminate all or part of our Services to anyone for any reason.
+Accounts that are unauthorized by us or become dormant may be removed.  Additionally, the Marketplace reserves the right to refuse, modify, or terminate all or part of our Services to anyone for any reason. When packing art for shipment, sellers should follow the Arta guidelines for packing art, which can be found here: [Artas Packing Guide.pdf](https://github.com/Journalistic/marketplace-docs/files/13562641/Artas.Packing.Guide.pdf).
+
 
 ## 4. Policy Enforcement
 In an effort to ensure both the Buyer and Seller have a positive experience, when a Buyer or Seller issue arises, we may consider additional factors including past actions and performance of the parties in applying our policies. Even so, we maintain our right to resolve matters in the following ways:  to refuse, modify, or terminate all or part of our Services to anyone, or to terminate this agreement with anyone, for any reason at our discretion.
